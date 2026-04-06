@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
 <h3 align="center">FullStack Developer!</h3>
-![HavelFlipGIF](https://github.com/user-attachments/assets/32699aca-de70-4cd4-b818-1e2620ea0914)
 
 
 - 🔭 I’m currently working on managment of data from Analog signals to Digital signals [PRACTICE!!!](https://github.com/AxelAFV/Transform-analog-signals-to-digital-signals)
