@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
 <h3 align="center">FullStack Developer!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axelafv" alt="axelafv" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=axelafv" alt="axelafv" /></a> </p>
 
 - 🔭 I’m currently working on managment of data from Analog signals to Digital signals [PRACTICE!!!](https://github.com/AxelAFV/Transform-analog-signals-to-digital-signals)
 
